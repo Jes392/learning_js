@@ -1,13 +1,8 @@
 module.exports = () => {
-  console.log("Ama");
 
-  console.log("Ama");
-  console.log("Ama");
-  console.log("Ama @");
-  console.log("Ama");
-  console.log("Ama");
-  console.log("Ama");
-  console.log("Ama");
+    let ghana = 'Ghana is beautiful'
+ 
+     console.log(ghana)
 
-
+     console.log(`Who said ${ghana}`)
 };
